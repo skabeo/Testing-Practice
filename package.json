@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skabeo/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skabeo/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/skabeo/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
